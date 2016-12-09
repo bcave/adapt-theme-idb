@@ -1,3 +1,4 @@
+var theme="IDB";
 define(function(require) {
 	
 	var Adapt = require('coreJS/adapt');
