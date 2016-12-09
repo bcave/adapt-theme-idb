@@ -1,4 +1,4 @@
-# adapt-theme-wbtz
+# adapt-theme-idb
 
 This theme is adapted from the adapt vanilla theme
 
